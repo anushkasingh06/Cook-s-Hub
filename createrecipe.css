@@ -1,0 +1,15 @@
+body {
+    font-family: Cambria;
+    background-image: url('Bg\ main.avif');
+}
+h1 {
+    text-align: center;
+    font-size: 36px;                
+}
+h4 {
+    text-align: center;
+}
+#main {
+    width: 100%;
+    margin: 0 auto;
+}
